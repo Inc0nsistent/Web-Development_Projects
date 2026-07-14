@@ -6,7 +6,7 @@ This repository contains my HTML, CSS, and JavaScript projects created while lea
 
 ### 1. Space Exploration Site
 - **Tech Stack:** HTML5, CSS3
-- **Live Demo:** https://subtle-unicorn-a5c7f7.netlify.app/
+- **Live Demo:** https://comforting-platypus-1f528b.netlify.app/
 - **Source Code:** Space_Exploration_Site
 
 ### 2. Digital Card

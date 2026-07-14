@@ -21,3 +21,16 @@ This repository contains my HTML, CSS, and JavaScript projects created while lea
 
 #### 💭 My Thoughts
 Although this project looks simple, it was one of the most challenging ones for me. My goal was to recreate Twitter's Follow button as accurately as possible. I spent nearly a full day matching the design, especially the text and border colors. Finding the exact shades took several hours, but the experience taught me that even small UI components require careful attention to detail. Looking back, I want to remember the patience and effort that went into building this project.
+
+### 4. Comic Type
+- **Tech Stack:** HTML5, CSS3
+- **Live Demo:** https://helpful-jalebi-9cdf9a.netlify.app/
+- **Source Code:** `Comic_Type`
+
+#### 💭 My Thoughts
+This project helped me practice typography and CSS styling by recreating a old comic-style design. While working on it, I focused on choosing appropriate fonts, spacing, colors, padding and layout to closely match the original design.
+
+
+
+
+

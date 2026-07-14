@@ -8,3 +8,8 @@ This repository contains my HTML, CSS, and JavaScript projects created while lea
 - **Tech Stack:** HTML5, CSS3
 - **Live Demo:** https://subtle-unicorn-a5c7f7.netlify.app/
 - **Source Code:** Space_Exploration_Site
+
+### 2. Digital Card
+- **Tech Stack:** HTML5, CSS3
+- **Live Demo:** https://nimble-sprinkles-dc5ab3.netlify.app/
+- **Source Code:** `Digital_Card`

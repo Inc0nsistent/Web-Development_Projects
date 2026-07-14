@@ -1,0 +1,30 @@
+body {
+    margin: 20px;
+    
+}
+
+.image {
+    width: 500px;   
+}
+
+.card {
+    
+    
+    padding: 40px;
+    display: flex;
+    justify-content: space-around;
+    gap: 20px;
+    width: 1000px;
+    margin: 0 auto;  
+    text-align: center;  
+    background-color: #ddebf8;
+    border-bottom: 15px solid #d8cefe;
+    color: #2b2839;
+    font-size: 40px;
+}
+
+
+
+
+
+

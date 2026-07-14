@@ -4,17 +4,19 @@ body {
     text-align: center;
     font-family: "Orbitron", sans-serif;
     font-optical-sizing: auto;
-    font-weight: 400;
+    
     font-style: normal;
     margin: 0;
+    font-size: 27px;
 
 }
 
 #hero {
     background-image: url("Universe.jpg");
     background-size: cover;
-    
-    padding: 10px 0 100px 0; 
+
+    padding: 10px 0 250px 0; 
+    font-size: 30px;
 }
 
 
@@ -26,17 +28,18 @@ body {
     color:#3c4c6b;
     font-weight: bold;
     border-radius: 5px;
+    font-size: 25px;
 }
 
 .cta {
-    /*text-decoration: underline;*/
-    border-bottom: 2px solid white;
+    
+    border-bottom: 5px solid white;
 }
 
 #logo {
-    width: 90px;
+    width: 200px;
 }
 
 .h1 {
-    text-shadow: 0px 0px 6px black;
+    text-shadow: 0px 0px 15px black;
 }

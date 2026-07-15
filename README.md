@@ -17,7 +17,7 @@ This repository contains my HTML, CSS, and JavaScript projects created while lea
 ### 3. Twitter Button
 - **Tech Stack:** HTML5, CSS3
 - **Live Demo:** https://bejewelled-cupcake-56c6fa.netlify.app/
-- **Source Code:** `Twitter_Button`
+- **Source Code:** `Twitter_button`
 
 #### 💭 My Thoughts
 Although this project looks simple, it was one of the most challenging ones for me. My goal was to recreate Twitter's Follow button as accurately as possible. I spent nearly a full day matching the design, especially the text and border colors. Finding the exact shades took several hours, but the experience taught me that even small UI components require careful attention to detail. Looking back, I want to remember the patience and effort that went into building this project.
@@ -25,11 +25,15 @@ Although this project looks simple, it was one of the most challenging ones for 
 ### 4. Comic Type
 - **Tech Stack:** HTML5, CSS3
 - **Live Demo:** https://helpful-jalebi-9cdf9a.netlify.app/
-- **Source Code:** `Comic_Type`
+- **Source Code:** `Comic_type`
 
 #### 💭 My Thoughts
 This project helped me practice typography and CSS styling by recreating a old comic-style design. While working on it, I focused on choosing appropriate fonts, spacing, colors, padding and layout to closely match the original design.
 
+### 5. The Daily Dribble
+- **Tech Stack:** HTML5, CSS3
+- **Live Demo:** https://dashing-profiterole-1bb042.netlify.app/
+- **Source Code:** `Daily_Dribble`
 
 
 

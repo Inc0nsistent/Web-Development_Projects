@@ -35,6 +35,12 @@ This project helped me practice typography and CSS styling by recreating a old c
 - **Live Demo:** https://dashing-profiterole-1bb042.netlify.app/
 - **Source Code:** `Daily_Dribble`
 
+### 6. Amazon Product Page
+- **Tech Stack:** HTML5, CSS3
+- **Live Demo:** https://zingy-flan-5f66bd.netlify.app/
+- **Source Code:** `Amazon_Product_Page`
+
+
 
 
 

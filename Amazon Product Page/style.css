@@ -1,0 +1,35 @@
+.main {
+    display:flex;
+    margin: 0px;
+    /* justify-content: space-around; */
+}
+
+.left {
+    color: #565959;
+    margin: 10px 10px 10px 10px;
+}
+
+.headline {
+    font-size: 40px;
+    font-style:inherit;  
+}
+
+.image1 {
+    width: 425px;
+}
+
+.right {
+    margin: 10px 10px 10px 10px;
+} 
+
+.para {
+    font-size: 23px;
+}
+
+.smallheadline {
+    font-weight: bold;
+}
+
+a {
+    color: #007185;
+}

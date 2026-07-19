@@ -40,6 +40,10 @@ This project helped me practice typography and CSS styling by recreating a old c
 - **Live Demo:** https://zingy-flan-5f66bd.netlify.app/
 - **Source Code:** `Amazon_Product_Page`
 
+### 7. Birthday Gift Site
+- **Tech Stack:** HTML5, CSS3
+- **Live Demo:** https://silly-faun-58a952.netlify.app/
+- **Source Code:** `Birthday_Gift_Site`
 
 
 
